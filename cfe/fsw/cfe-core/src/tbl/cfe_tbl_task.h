@@ -76,7 +76,7 @@
 /** \name Table Services Task Pipe Characteristics */
 /**  \{ */
 #define CFE_TBL_TASK_PIPE_NAME     "TBL_CMD_PIPE"  /**< \brief Name of TBL Task Command Pipe */
-#define CFE_TBL_TASK_PIPE_DEPTH    12              /**< \brief Number of Commands that can be queued */
+#define CFE_TBL_TASK_PIPE_DEPTH    10              /**< \brief Number of Commands that can be queued */
 /** \} */
 
 /** \brief Value indicating when no load is in progress */

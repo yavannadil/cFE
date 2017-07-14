@@ -44,7 +44,7 @@
 
 #define cfgCI_PORT                      1234
 #define CI_MAX_INGEST                    768
-#define CI_PIPE_DEPTH                     32
+#define CI_PIPE_DEPTH                     10
 
 /************************************************************************
 ** Type Definitions

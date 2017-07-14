@@ -106,7 +106,7 @@
 */
 
 #define CFE_TIME_TASK_PIPE_NAME  "TIME_CMD_PIPE"
-#define CFE_TIME_TASK_PIPE_DEPTH 12
+#define CFE_TIME_TASK_PIPE_DEPTH 10
 
 /*
 ** Reset Area state state at startup...

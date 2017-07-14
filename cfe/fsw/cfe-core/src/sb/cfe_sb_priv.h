@@ -133,7 +133,7 @@
 #define CFE_SB_INCREMENT_TLM            1
 
 #define CFE_SB_MAIN_LOOP_ERR_DLY        1000
-#define CFE_SB_CMD_PIPE_DEPTH           32
+#define CFE_SB_CMD_PIPE_DEPTH           10
 #define CFE_SB_CMD_PIPE_NAME            "SB_CMD_PIPE"
 #define CFE_SB_MAX_CFG_FILE_EVENTS_TO_FILTER     8
 

@@ -203,7 +203,7 @@
 **  \par Limits
 **       This parameter has a lower limit of 1 and an upper limit of 65535.
 */
-#define CFE_SB_MAX_PIPE_DEPTH           256
+#define CFE_SB_MAX_PIPE_DEPTH           10
 
 
 /**
