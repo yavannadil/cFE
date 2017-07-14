@@ -321,7 +321,7 @@ int32 CFE_ES_TaskInit(void)
     ** Initialize task configuration data
     */
     strcpy(CFE_ES_TaskData.PipeName, "ES_CMD_PIPE");
-    CFE_ES_TaskData.PipeDepth = 12;
+    CFE_ES_TaskData.PipeDepth = 10;
 
     CFE_ES_TaskData.LimitHK   = 2;
     CFE_ES_TaskData.LimitCmd  = 4;
